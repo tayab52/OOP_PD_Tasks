@@ -1,0 +1,7 @@
+E:\Semester2\OOP\Week1-C#\BuisenessAppCsharp\BuisenessAppCsharp\bin\Debug\BuisenessAppCsharp.exe.config
+E:\Semester2\OOP\Week1-C#\BuisenessAppCsharp\BuisenessAppCsharp\bin\Debug\BuisenessAppCsharp.exe
+E:\Semester2\OOP\Week1-C#\BuisenessAppCsharp\BuisenessAppCsharp\bin\Debug\BuisenessAppCsharp.pdb
+E:\Semester2\OOP\Week1-C#\BuisenessAppCsharp\BuisenessAppCsharp\obj\Debug\BuisenessAppCsharp.csproj.AssemblyReference.cache
+E:\Semester2\OOP\Week1-C#\BuisenessAppCsharp\BuisenessAppCsharp\obj\Debug\BuisenessAppCsharp.csproj.CoreCompileInputs.cache
+E:\Semester2\OOP\Week1-C#\BuisenessAppCsharp\BuisenessAppCsharp\obj\Debug\BuisenessAppCsharp.exe
+E:\Semester2\OOP\Week1-C#\BuisenessAppCsharp\BuisenessAppCsharp\obj\Debug\BuisenessAppCsharp.pdb

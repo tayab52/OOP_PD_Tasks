@@ -1,0 +1,7 @@
+E:\Semester2\PD-2ndSemester\Week2\Task1-ProjectConversion\Task1-ProjectConversion\bin\Debug\Task1-ProjectConversion.exe.config
+E:\Semester2\PD-2ndSemester\Week2\Task1-ProjectConversion\Task1-ProjectConversion\bin\Debug\Task1-ProjectConversion.exe
+E:\Semester2\PD-2ndSemester\Week2\Task1-ProjectConversion\Task1-ProjectConversion\bin\Debug\Task1-ProjectConversion.pdb
+E:\Semester2\PD-2ndSemester\Week2\Task1-ProjectConversion\Task1-ProjectConversion\obj\Debug\Task1-ProjectConversion.csproj.AssemblyReference.cache
+E:\Semester2\PD-2ndSemester\Week2\Task1-ProjectConversion\Task1-ProjectConversion\obj\Debug\Task1-ProjectConversion.csproj.CoreCompileInputs.cache
+E:\Semester2\PD-2ndSemester\Week2\Task1-ProjectConversion\Task1-ProjectConversion\obj\Debug\Task1-ProjectConversion.exe
+E:\Semester2\PD-2ndSemester\Week2\Task1-ProjectConversion\Task1-ProjectConversion\obj\Debug\Task1-ProjectConversion.pdb
